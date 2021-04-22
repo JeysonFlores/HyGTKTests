@@ -3,6 +3,6 @@ A bunch of tests of PyGObject using Hy
 
 # Tests
 
-1 - Signals and custom widgets
-2 - Granite
-3 - Handy
+- Signals and custom widgets (window.hy)
+- Granite (granite.hy)
+- Handy (handy.hy)
